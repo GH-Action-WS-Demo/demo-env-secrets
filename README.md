@@ -53,4 +53,3 @@ Demo repository for using Environments and Secrets in workflows.
     - Ensure any PRs are closed/merged
     - Delete any branches created
 
-TEST WF
