@@ -1,4 +1,4 @@
-# :rocket: Environments and secrets PR Trigger
+# :rocket: Environments and secrets PR
 
 Demo repository for using Environments and Secrets in workflows.
 
