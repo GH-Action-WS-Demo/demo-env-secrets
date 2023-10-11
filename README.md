@@ -1,4 +1,4 @@
-# :rocket: Environments and secrets Demo Run
+# :rocket: Environments and secrets
 
 Demo repository for using Environments and Secrets in workflows.
 
