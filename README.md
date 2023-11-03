@@ -1,4 +1,4 @@
-# :rocket: Environments and secrets test ADO
+# :rocket: Environments and secrets 
 
 Demo repository for using Environments and Secrets in workflows.
 
