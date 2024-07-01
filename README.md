@@ -10,7 +10,7 @@ Demo repository for using Environments and Secrets in workflows.
 
 ## Usage 
 
-### Creating environments TEST Rule Policy
+### Creating environments TEST codeowners policy
 
 1. In the repository, go to **Settings** --> **Environments**
 1. Create an environment (e.g. `test`)
